@@ -31,7 +31,7 @@ chmod +x create_superuser.sh
 Step 5: Build and Run Docker Containers
 Bring down any running containers and build your setup with:
 
-docker-compose down
+docker-compose down   <br>
 docker-compose up --build
 
 Access the Django application at http://52.66.251.143:8000
