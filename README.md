@@ -22,7 +22,7 @@ Download or pull the necessary files and place them inside the created folder.
 ### Step 3: Basic Shell Scripting
 Create a `.env` file by running:
 vi .env
-Copy and paste the environment variables into it.
+Copy and paste the environment variables into it. (as you can't see the file because it is hidden for security)
 
 Step 4: (Optional) Set Execution Permissions
 If you encounter errors regarding shell execution while running the container, grant execution permissions:
