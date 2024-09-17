@@ -12,7 +12,7 @@ Before starting, ensure you have the following:
 ## Setup Instructions
 
 ### Step 1: Git clone
-git clone url
+git clone url (copy past url) <br>
 cd Django-and-mysql-in-docker
 
 
