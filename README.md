@@ -12,7 +12,7 @@ Before starting, ensure you have the following:
 ## Setup Instructions
 
 ### Step 1: Create a Folder
-Create a folder to house your project files.
+Create a folder files.
 
 ### Step 2: Pull or Download Files
 Download or pull the necessary files and place them inside the created folder.
