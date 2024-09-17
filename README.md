@@ -11,8 +11,10 @@ Before starting, ensure you have the following:
 
 ## Setup Instructions
 
-### Step 1: Create a Folder
-Create a folder files.
+### Step 1: Git clone
+git clone url
+cd Django-and-mysql-in-docker
+
 
 ### Step 2: Pull or Download Files
 Download or pull the necessary files and place them inside the created folder.
