@@ -25,7 +25,7 @@ vi .env
 Copy and paste the environment variables into it. (as you can't see the file because it is hidden for security)
 
 Step 4: (Optional) Set Execution Permissions
-If you encounter errors regarding shell execution while running the container, grant execution permissions:
+If you encounter errors regarding shell execution while running the container, grant execution permissions: <br>
 chmod +x create_superuser.sh
 
 Step 5: Build and Run Docker Containers
@@ -33,6 +33,17 @@ Bring down any running containers and build your setup with:
 
 docker-compose down   <br>
 docker-compose up --build
+
+you will see
+
+ 
+web_1    | System check identified no issues (0 silenced).
+web_1    | September 17, 2024 - 23:18:02
+web_1    | Django version 4.2.16, using settings 'yamahadocker.settings'
+web_1    | Starting development server at http://0.0.0.0:8000/
+web_1    | Quit the server with CONTROL-C.
+
+if yes then congratulations you did it.. 
 
 Access the Django application at http://52.66.251.143:8000
 
